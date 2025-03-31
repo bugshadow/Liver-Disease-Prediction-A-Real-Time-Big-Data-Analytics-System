@@ -174,15 +174,6 @@ Le modèle Random Forest a été utilisé pour les prédictions avec les perform
  [   7 331 ]]
 ```
 
-<div style="color:black;">
-```
- ____  _  ____    ____   __  ____  __  
-| __ )| |/ ___|  |  _ \ / _\|_ _|/ _\ 
-|  _ \| | |  _   | | | |/    \| |/    \
-| |_) | | |_| |  | |_| |\_/\_/| |\_/\_/
-|____/|_|\____|  |____/\____/|_|\____/
-```
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugshadow&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
