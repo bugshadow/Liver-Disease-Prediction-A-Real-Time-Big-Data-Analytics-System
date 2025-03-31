@@ -1,0 +1,4 @@
+Données d'entrée : (62, 'Male', 7.3, 4.1, 490, 60, 68, 7.0, 3.3, 0.89, 1)
+Prédiction du modèle : 1.0
+Diagnostic : Malade du foie
+Resultat fourni (pour vérification) : 1

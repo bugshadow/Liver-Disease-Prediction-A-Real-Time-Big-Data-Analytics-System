@@ -1,0 +1,25 @@
+Comparaison des modèles
+====================
+
+Modèle : RandomForest
+Accuracy sur entraînement : 0.9999
+Accuracy sur test : 0.9963
+Écart : 0.0036
+Résultat : Pas de signe évident d'overfitting.
+---
+Modèle : LogisticRegression
+Accuracy sur entraînement : 0.7221
+Accuracy sur test : 0.7209
+Écart : 0.0012
+Résultat : Pas de signe évident d'overfitting.
+---
+Modèle : DecisionTree
+Accuracy sur entraînement : 0.9999
+Accuracy sur test : 0.9887
+Écart : 0.0112
+Résultat : Pas de signe évident d'overfitting.
+---
+
+Meilleur modèle basé sur l'accuracy de test :
+Modèle : RandomForest
+Accuracy sur test : 0.9963
