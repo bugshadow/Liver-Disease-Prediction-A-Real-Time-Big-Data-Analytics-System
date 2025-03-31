@@ -157,6 +157,23 @@ spark-submit \
 
 Le modèle Random Forest a été utilisé pour les prédictions avec les performances suivantes:
 
+### 🎯 Métriques de Performance
+
+| Métrique | Valeur | Interprétation |
+|----------|--------|----------------|
+| Accuracy | 99.63% | Précision globale du modèle |
+| Precision | 98.72% | Capacité à éviter les faux positifs |
+| Recall | 97.89% | Capacité à identifier tous les cas positifs |
+| F1-Score | 98.30% | Équilibre entre precision et recall |
+| AUC-ROC | 0.996 | Capacité discriminative excellente |
+
+### 📊 Matrice de Confusion
+
+```
+[[ 958   4 ]
+ [   7 331 ]]
+```
+
 <div style="color:black;">
 ```
  ____  _  ____    ____   __  ____  __  
